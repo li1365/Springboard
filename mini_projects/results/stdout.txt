@@ -1,0 +1,106 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 01:33:52.861 NotebookApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
+[I 01:33:52.876 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 01:33:52.939 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+/usr/local/anaconda/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
+  return f(*args, **kwds)
+[I 01:33:57.531 NotebookApp] jupyter_tensorboard extension loaded.
+[I 01:33:57.535 NotebookApp] Serving notebooks from local directory: /
+[I 01:33:57.536 NotebookApp] 0 active kernels 
+[I 01:33:57.536 NotebookApp] The Jupyter Notebook is running at: http://172.17.0.3:8888/
+[I 01:33:57.536 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 01:33:57.540 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-5_3_7-data-wrangling-with-pandas-mini-project%2FMini_Project_Data_Wrangling_Pandas.ipynb (10.0.148.12) 2.15ms
+[I 01:34:01.097 NotebookApp] 302 GET / (10.0.125.128) 0.56ms
+[I 01:34:01.128 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-5_3_7-data-wrangling-with-pandas-mini-project%2FMini_Project_Data_Wrangling_Pandas.ipynb (10.0.125.128) 1.26ms
+[I 01:34:01.175 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-5_3_7-data-wrangling-with-pandas-mini-project%2FMini_Project_Data_Wrangling_Pandas.ipynb (10.0.125.128) 1.33ms
+[I 01:34:01.275 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-5_3_7-data-wrangling-with-pandas-mini-project%2FMini_Project_Data_Wrangling_Pandas.ipynb (10.0.125.128) 1.38ms
+[I 01:34:01.631 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-5_3_7-data-wrangling-with-pandas-mini-project%2FMini_Project_Data_Wrangling_Pandas.ipynb (10.0.125.128) 1.32ms
+[I 01:34:02.851 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 01:34:02.855 NotebookApp] Notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb is not trusted
+[I 01:34:04.339 NotebookApp] Kernel started: 6f67668a-7768-47de-aa1b-e12b6078189b
+[I 01:34:04.346 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-5_3_7-data-wrangling-with-pandas-mini-project%2FMini_Project_Data_Wrangling_Pandas.ipynb (10.0.125.128) 1.09ms
+[I 01:34:04.390 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-5_3_7-data-wrangling-with-pandas-mini-project%2FMini_Project_Data_Wrangling_Pandas.ipynb (10.0.125.128) 1.40ms
+[I 01:34:05.737 NotebookApp] Adapting to protocol v5.1 for kernel 6f67668a-7768-47de-aa1b-e12b6078189b
+[I 01:34:06.631 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-5_3_7-data-wrangling-with-pandas-mini-project%2FMini_Project_Data_Wrangling_Pandas.ipynb (10.0.125.128) 1.40ms
+[I 01:42:04.691 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 01:42:04.693 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 01:44:04.886 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 01:44:04.888 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 01:46:04.814 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 01:46:04.817 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 01:48:04.641 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 01:48:04.643 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 01:50:04.579 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 01:50:04.581 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 01:52:04.631 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 01:52:04.633 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 01:54:04.580 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 01:54:04.581 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 01:56:05.275 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 01:56:05.277 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 01:58:04.609 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 01:58:04.611 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:00:04.929 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:00:04.931 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:02:04.644 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:02:04.646 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:04:04.644 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:04:04.646 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:06:04.570 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:06:04.573 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:08:04.577 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:08:04.579 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:10:04.878 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:10:04.881 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:12:04.870 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:12:04.872 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:14:04.649 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:14:04.652 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:16:04.620 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:16:04.622 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:18:04.627 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:18:04.630 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:20:04.578 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:20:04.580 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:22:04.933 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:22:04.935 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:24:04.568 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:24:04.570 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:26:04.679 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:26:04.682 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:28:04.600 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:28:04.602 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:30:04.968 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:30:04.970 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:32:04.646 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:32:04.648 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:34:04.748 NotebookApp] 302 GET / (10.0.148.12) 0.58ms
+[I 02:34:04.927 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:34:04.929 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:36:04.624 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:36:04.626 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:38:04.801 NotebookApp] 302 GET / (10.0.125.128) 0.55ms
+[I 02:38:04.977 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:38:04.979 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:40:04.648 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:40:04.650 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:42:04.653 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:42:04.656 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:44:04.639 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:44:04.641 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:46:04.994 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:46:04.997 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:48:04.686 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:48:04.689 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:50:04.656 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:50:04.658 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:52:05.130 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:52:05.132 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:54:04.652 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[W 02:54:04.654 NotebookApp] Saving untrusted notebook mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:56:04.672 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 02:58:04.942 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 03:00:04.609 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 03:02:04.957 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
+[I 03:04:04.694 NotebookApp] Saving file at /mnt/aic-5_3_7-data-wrangling-with-pandas-mini-project/Mini_Project_Data_Wrangling_Pandas.ipynb
